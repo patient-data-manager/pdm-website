@@ -1,6 +1,6 @@
 title:               Patient Data Manager
 url:                 https://patient-data-manager.github.io/pdm-website/
-baseurl:             "blog"
+baseurl:             "/pdm-website"
 
 markdown:            kramdown
 highlighter:         rouge
