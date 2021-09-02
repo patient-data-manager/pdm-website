@@ -21,7 +21,7 @@ sass:
 author:
   name:              GoInvo
   url:               https://github.com/goinvo
-  email:             eric@goinvo.com
+  email:             pdm@goinvo.com
 
 plugins:
   - jekyll-coffeescript
