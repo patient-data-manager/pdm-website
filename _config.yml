@@ -20,8 +20,8 @@ sass:
 
 author:
   name:              GoInvo
-  url:               https://github.com/goinvo
-  email:             pdm@goinvo.com
+  url:               https://github.com/patient-data-manager
+  email:             hello@healthdatamanager.com
 
 plugins:
   - jekyll-coffeescript
