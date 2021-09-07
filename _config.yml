@@ -21,7 +21,7 @@ sass:
 author:
   name:              GoInvo
   url:               https://github.com/patient-data-manager
-  email:             hello@healthdatamanager.com
+  email:             pdm@goinvo.com
 
 plugins:
   - jekyll-coffeescript
